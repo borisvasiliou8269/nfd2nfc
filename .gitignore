@@ -3,3 +3,4 @@ node_modules/
 *.log
 *.pyc
 __pycache__/
+.cache/
