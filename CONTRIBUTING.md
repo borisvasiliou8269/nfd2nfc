@@ -18,3 +18,4 @@ Notes and usage details for nfd2nfc.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
